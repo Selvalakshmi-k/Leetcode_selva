@@ -13,6 +13,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0707-design-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0707-design-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
