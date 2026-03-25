@@ -1,18 +1,18 @@
 class BrowserHistory {
     class Node{
         String url;
-        Node prev;
         Node next;
+        Node prev;
         Node(String url){
             this.url=url;
-            prev=null;
             next=null;
+            prev=null;
         }
     }
     Node curr;
+
     public BrowserHistory(String homepage) {
         curr=new Node(homepage);
-        
     }
     
     public void visit(String url) {
@@ -23,7 +23,7 @@ class BrowserHistory {
     }
     
     public String back(int steps) {
-        while(curr.prev!=null && steps>0){
+        while(curr.prev!=null&&steps>0){
             curr=curr.prev;
             steps--;
         }
@@ -31,12 +31,11 @@ class BrowserHistory {
     }
     
     public String forward(int steps) {
-        while(curr.next!=null && steps>0){
+        while(curr.next!=null&&steps>0){
             curr=curr.next;
             steps--;
         }
         return curr.url;
-        
     }
 }
 
