@@ -34,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0001-two-sum/) | Easy |
+| [0051-n-queens](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0051-n-queens/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1472-design-browser-history/) | Medium |
@@ -124,4 +125,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
