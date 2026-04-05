@@ -36,6 +36,7 @@
 | [0001-two-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0001-two-sum/) | Easy |
 | [0051-n-queens](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -146,6 +147,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
