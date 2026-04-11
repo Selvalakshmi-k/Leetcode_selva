@@ -48,6 +48,7 @@
 | [0724-find-pivot-index](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0724-find-pivot-index/) | Easy |
 | [1472-design-browser-history](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -60,6 +61,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0217-contains-duplicate/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -95,6 +97,7 @@
 | [0088-merge-sorted-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0217-contains-duplicate/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String
@@ -109,6 +112,7 @@
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -177,4 +181,12 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0724-find-pivot-index/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 <!---LeetCode Topics End-->
