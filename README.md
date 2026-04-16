@@ -62,6 +62,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0217-contains-duplicate/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
@@ -107,6 +108,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0022-generate-parentheses/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
