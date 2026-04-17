@@ -107,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0022-generate-parentheses/) | Medium |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1844-replace-all-digits-with-characters/) | Easy |
