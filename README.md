@@ -60,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0169-majority-element/) | Easy |
@@ -108,6 +109,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0013-roman-to-integer/) | Easy |
 | [0022-generate-parentheses](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0022-generate-parentheses/) | Medium |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -173,6 +175,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0013-roman-to-integer/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 ## Counting
