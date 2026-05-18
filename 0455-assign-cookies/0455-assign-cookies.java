@@ -6,18 +6,14 @@ class Solution {
         int sp=0;
         int c=0;
         while(sp<s.length && gp<g.length){
-            // if(s[sp]>=g[gp]){
-            //     c++;
-            //     sp++;
-            //     gp++;
-            // }else{
-            //     sp++;
-            // }
             if(s[sp]>=g[gp]){
+                c++;
+                sp++;
                 gp++;
+            }else{
+                sp++;
             }
-            sp++;
         }
-        return gp;
+        return c;
     }
 }
