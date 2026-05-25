@@ -48,6 +48,7 @@
 | [0455-assign-cookies](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0455-assign-cookies/) | Easy |
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0724-find-pivot-index/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1472-design-browser-history](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -81,6 +82,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0933-number-of-recent-calls/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0455-assign-cookies/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -136,6 +139,7 @@
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
