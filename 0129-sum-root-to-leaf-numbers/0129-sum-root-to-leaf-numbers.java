@@ -21,6 +21,6 @@ class Solution {
         if(root==null) return 0;
         current = current*10+root.val;
         if(root.left==null&&root.right==null) return current; 
-    return sum(root.left, current) + sum(root.right, current);
+        return sum(root.left, current) + sum(root.right, current);
     }
 }
