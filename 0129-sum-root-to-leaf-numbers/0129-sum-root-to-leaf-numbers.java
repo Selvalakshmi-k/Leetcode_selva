@@ -14,13 +14,18 @@
  * }
  */
 class Solution {
+    int current=0;
     public int sumNumbers(TreeNode root) {
-        return sum(root, 0);
+        return sum(root,0);
     }
-    int sum(TreeNode root, int current){
-        if(root==null) return 0;
-        current = current*10+root.val;
-        if(root.left==null&&root.right==null) return current; 
-        return sum(root.left, current) + sum(root.right, current);
+    int sum(TreeNode root,int current){
+        if(root==null){
+            return 0;
+        }
+        current=current*10+(root.val);
+        if(root.left==null && root.right==null){
+            return current;
+        }
+        return sum(root.left,current)+sum(root.right,current);
     }
 }
