@@ -190,6 +190,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +260,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
