@@ -141,6 +141,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0649-dota2-senate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -219,6 +220,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
