@@ -11,6 +11,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1472-design-browser-history/) | Medium |
@@ -28,6 +29,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0455-assign-cookies/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0518-coin-change-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0724-find-pivot-index/) | Easy |
