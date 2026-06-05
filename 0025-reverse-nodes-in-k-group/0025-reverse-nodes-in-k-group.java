@@ -8,29 +8,55 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+// class Solution {
+//     public ListNode reverseKGroup(ListNode head, int k) {
+    //     if (head == null) return null;
+
+    //     ListNode tail = head;
+    //     for (int i = 0; i < k; i++) {
+    //         if (tail == null) return head;
+    //         tail = tail.next;
+    //     }
+
+    //     ListNode newHead = reverse(head, tail);
+    //     head.next = reverseKGroup(tail, k);
+    //     return newHead;
+    // }
+
+    // private ListNode reverse(ListNode cur, ListNode end) {
+    //     ListNode prev = null;
+    //     while (cur != end) {
+    //         ListNode next = cur.next;
+    //         cur.next = prev;
+    //         prev = cur;
+    //         cur = next;
+    //     }
+    //     return prev;
+
+    //second way of approach by sameer sir
+
+    class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if (head == null) return null;
 
-        ListNode tail = head;
-        for (int i = 0; i < k; i++) {
-            if (tail == null) return head;
-            tail = tail.next;
+        int c=0;
+        ListNode temp=head;
+        while(temp!=null){
+            temp=temp.next;
+            c++;//for count the nodes
         }
-
-        ListNode newHead = reverse(head, tail);
-        head.next = reverseKGroup(tail, k);
-        return newHead;
-    }
-
-    private ListNode reverse(ListNode cur, ListNode end) {
-        ListNode prev = null;
-        while (cur != end) {
-            ListNode next = cur.next;
-            cur.next = prev;
-            prev = cur;
-            cur = next;
+        if(c<k) return head;
+        int i=0;
+        ListNode curr=head;
+        ListNode prev=null;
+        ListNode next=null;
+        while(i<k){//reverse code (i<k)
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
+            i++;
         }
+        head.next=reverseKGroup(curr,k);
         return prev;
     }
 }
