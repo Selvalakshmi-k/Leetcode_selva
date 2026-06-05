@@ -181,6 +181,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0141-linked-list-cycle/) | Easy |
@@ -258,6 +259,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -279,6 +281,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1046-last-stone-weight](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1046-last-stone-weight/) | Easy |
@@ -372,4 +375,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0239-sliding-window-maximum/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
