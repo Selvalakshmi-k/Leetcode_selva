@@ -143,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0162-find-peak-element/) | Medium |
+| [0278-first-bad-version](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -414,4 +415,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0319-bulb-switcher/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
