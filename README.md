@@ -265,6 +265,7 @@
 | [0013-roman-to-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0070-climbing-stairs/) | Easy |
+| [0319-bulb-switcher](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0319-bulb-switcher/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -396,4 +397,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
