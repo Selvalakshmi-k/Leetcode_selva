@@ -15,12 +15,12 @@ class Solution {
         ListNode dummy=new ListNode(0);
         ListNode temp=dummy;
         while(c1!=null && c2!=null){
-            if(c1.val>c2.val){
-                temp.next=c2;
-                c2=c2.next;
-            }else{
+            if(c1.val<c2.val){
                 temp.next=c1;
                 c1=c1.next;
+            }else{
+                temp.next=c2;
+                c2=c2.next;
             }
             temp=temp.next;
         }
