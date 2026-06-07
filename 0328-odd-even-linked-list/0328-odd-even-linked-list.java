@@ -24,6 +24,5 @@ class Solution {
         }
         odd.next=evenhead;
         return head;
-
     }
 }
