@@ -19,25 +19,25 @@ class Solution {
         ListNode fh=head;
         ListNode sh=slow;
         sh=rev(sh);
-       
         while(sh!=null){
             if(fh.val!=sh.val){
                 return false;
             }
-            sh=sh.next;
             fh=fh.next;
+            sh=sh.next;
         }
         return true;
     }
-        ListNode rev(ListNode curr){
-            ListNode prev=null;
-            ListNode next=null;
-            while(curr!=null){
+    ListNode rev(ListNode head){
+        ListNode curr=head;
+        ListNode next=null;
+        ListNode prev=null;
+        while(curr!=null){
             next=curr.next;
             curr.next=prev;
             prev=curr;
             curr=next;
-            }
-            return prev;
         }
+        return prev;
+    }
 }
