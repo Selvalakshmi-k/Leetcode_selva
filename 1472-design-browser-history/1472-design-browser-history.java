@@ -5,10 +5,11 @@ class BrowserHistory {
         Node prev;
         Node(String url){
             this.url=url;
-            next=prev=null;
+            next=null;
+            prev=null;
         }
     }
-     Node curr;
+    Node curr;
 
     public BrowserHistory(String homepage) {
         curr=new Node(homepage);
@@ -16,8 +17,8 @@ class BrowserHistory {
     
     public void visit(String url) {
         Node nn=new Node(url);
-        curr.next=nn;
         nn.prev=curr;
+        curr.next=nn;
         curr=nn;
     }
     
