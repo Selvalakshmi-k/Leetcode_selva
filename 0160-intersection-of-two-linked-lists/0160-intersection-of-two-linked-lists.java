@@ -17,6 +17,6 @@ public class Solution {
             lista=(lista!=null)?lista=lista.next:headB;
             listb=(listb!=null)?listb=listb.next:headA;
         }
-        return listb;
+        return listb; //here u can give listb also or lista
     }
 }
