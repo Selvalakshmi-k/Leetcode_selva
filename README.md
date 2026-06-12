@@ -428,6 +428,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0626-exchange-seats](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
