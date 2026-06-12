@@ -184,6 +184,7 @@
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3894-traffic-signal-color/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3894-traffic-signal-color/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +282,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3894-traffic-signal-color/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
