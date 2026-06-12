@@ -428,5 +428,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0626-exchange-seats](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0626-exchange-seats/) | Medium |
+| [0627-swap-sex-of-employees](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
