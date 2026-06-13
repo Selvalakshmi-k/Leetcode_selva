@@ -4,5 +4,5 @@ from Products p
 join orders o
 on p.product_id=o.product_id
 where year(order_date)=2020 and month(order_date)=02
-group by p.product_name,o.product_id
+group by p.product_name
 having sum(o.unit)>=100;
