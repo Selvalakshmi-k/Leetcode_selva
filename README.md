@@ -430,6 +430,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0182-duplicate-emails/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0626-exchange-seats](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0627-swap-sex-of-employees/) | Easy |
