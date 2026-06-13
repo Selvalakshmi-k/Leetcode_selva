@@ -436,6 +436,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0626-exchange-seats](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
