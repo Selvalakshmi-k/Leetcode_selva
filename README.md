@@ -432,6 +432,7 @@
 | [0196-delete-duplicate-emails](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0626-exchange-seats](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
