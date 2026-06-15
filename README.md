@@ -443,6 +443,7 @@
 | [0626-exchange-seats](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1148-article-views-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
