@@ -442,6 +442,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1068-product-sales-analysis-i/) | Easy |
