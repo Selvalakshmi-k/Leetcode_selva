@@ -82,6 +82,7 @@
 | [1472-design-browser-history](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1472-design-browser-history/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -303,6 +304,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Greedy
