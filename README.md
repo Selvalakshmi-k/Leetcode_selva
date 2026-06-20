@@ -55,6 +55,7 @@
 | [0064-minimum-path-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0064-minimum-path-sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0162-find-peak-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0198-house-robber/) | Medium |
@@ -102,6 +103,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0013-roman-to-integer/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -394,6 +396,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0200-number-of-islands/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
