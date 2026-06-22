@@ -112,6 +112,7 @@
 | [0217-contains-duplicate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0242-valid-anagram/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -188,6 +189,7 @@
 | [0649-dota2-senate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -299,6 +301,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0229-majority-element-ii/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 ## Divide and Conquer
