@@ -103,6 +103,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -128,6 +129,7 @@
 | [2404-most-frequent-even-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Queue
@@ -250,6 +252,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1472-design-browser-history/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
