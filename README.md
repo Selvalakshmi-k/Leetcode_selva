@@ -158,6 +158,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -252,6 +253,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1472-design-browser-history/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
