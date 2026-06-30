@@ -20,11 +20,9 @@ class Solution {
             fast=fast.next.next;
         }
         ListNode temp=head;
-        int c=0;
         while(temp.next!=null){
-            if(((temp.next==slow))&&(c==0)){
+            if(temp.next==slow){
                 temp.next=temp.next.next;
-                c++;
             }else{
                 temp=temp.next;
             }
