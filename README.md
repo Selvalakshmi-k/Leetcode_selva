@@ -121,6 +121,7 @@
 | [0229-majority-element-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0242-valid-anagram/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
@@ -207,6 +208,7 @@
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -458,6 +460,7 @@
 | [0239-sliding-window-maximum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
