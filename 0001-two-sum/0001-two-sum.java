@@ -9,6 +9,7 @@ class Solution
                 if((nums[i]+nums[j])==NumbeR)
                 {
                     return new int[] {i,j};
+           
                 }
             }
         }
