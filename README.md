@@ -54,6 +54,7 @@
 | [0053-maximum-subarray](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -112,6 +113,7 @@
 | [0001-two-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -443,6 +445,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0200-number-of-islands/) | Medium |
 | [0867-transpose-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0867-transpose-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
