@@ -105,6 +105,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3467-transform-array-by-parity](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -198,6 +199,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3467-transform-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@
 | [1512-number-of-good-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2404-most-frequent-even-element/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
