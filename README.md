@@ -232,6 +232,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0867-transpose-matrix/) | Easy |
@@ -330,6 +331,7 @@
 | [0048-rotate-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0070-climbing-stairs/) | Easy |
+| [0258-add-digits](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0258-add-digits/) | Easy |
 | [0319-bulb-switcher](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0319-bulb-switcher/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -391,6 +393,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0258-add-digits/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Geometry
