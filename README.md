@@ -136,6 +136,7 @@
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Queue
@@ -224,6 +225,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3894-traffic-signal-color/) | Easy |
@@ -347,6 +349,7 @@
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
