@@ -16,6 +16,7 @@
 | [0503-next-greater-element-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0901-online-stock-span/) | Medium |
+| [1006-clumsy-factorial](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1006-clumsy-factorial/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -237,6 +238,7 @@
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1006-clumsy-factorial](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1006-clumsy-factorial/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -335,6 +337,7 @@
 | [0070-climbing-stairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0258-add-digits/) | Easy |
 | [0319-bulb-switcher](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0319-bulb-switcher/) | Medium |
+| [1006-clumsy-factorial](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1006-clumsy-factorial/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1512-number-of-good-pairs/) | Easy |
