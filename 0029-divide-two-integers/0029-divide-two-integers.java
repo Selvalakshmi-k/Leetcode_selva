@@ -3,6 +3,6 @@ class Solution {
         if(dividend==Integer.MIN_VALUE && divisor==-1){
             return Integer.MAX_VALUE;
         }
-        return (int) dividend/divisor;
+        return dividend/divisor;
     }
 }
