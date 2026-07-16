@@ -283,6 +283,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0029-divide-two-integers/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -328,6 +329,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0070-climbing-stairs/) | Easy |
