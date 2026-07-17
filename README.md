@@ -126,6 +126,7 @@
 | [0217-contains-duplicate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0242-valid-anagram/) | Easy |
+| [0567-permutation-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0567-permutation-in-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -167,6 +168,7 @@
 | [0283-move-zeroes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0455-assign-cookies/) | Easy |
+| [0567-permutation-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -215,6 +217,7 @@
 | [0022-generate-parentheses](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0242-valid-anagram/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
+| [0567-permutation-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -491,6 +494,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0567-permutation-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
