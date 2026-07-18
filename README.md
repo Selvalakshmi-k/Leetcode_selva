@@ -108,6 +108,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3033-modify-the-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3033-modify-the-matrix/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -252,6 +253,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,6 +354,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3516-find-closest-person](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -412,6 +415,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -516,6 +520,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
