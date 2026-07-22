@@ -53,6 +53,7 @@
 | [0048-rotate-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -239,6 +240,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
@@ -499,6 +501,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0200-number-of-islands/) | Medium |
