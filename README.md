@@ -86,6 +86,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1046-last-stone-weight/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1472-design-browser-history/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -206,6 +207,7 @@
 | [0242-valid-anagram](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0455-assign-cookies/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -420,6 +422,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1046-last-stone-weight](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Number Theory
