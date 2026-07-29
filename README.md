@@ -65,6 +65,7 @@
 | [0169-majority-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0200-number-of-islands/) | Medium |
+| [0204-count-primes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0229-majority-element-ii/) | Medium |
@@ -264,6 +265,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0204-count-primes/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Linked List
@@ -357,6 +359,7 @@
 | [0048-rotate-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0070-climbing-stairs/) | Easy |
+| [0204-count-primes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0258-add-digits/) | Easy |
 | [0319-bulb-switcher](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0319-bulb-switcher/) | Medium |
 | [1006-clumsy-factorial](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1006-clumsy-factorial/) | Medium |
@@ -428,6 +431,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
