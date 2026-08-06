@@ -81,6 +81,7 @@
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0724-find-pivot-index/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0877-stone-game/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -539,6 +540,7 @@
 | [0064-minimum-path-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0200-number-of-islands/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0867-transpose-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2614-prime-in-diagonal/) | Easy |
