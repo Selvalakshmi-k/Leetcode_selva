@@ -114,6 +114,7 @@
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3033-modify-the-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3033-modify-the-matrix/) | Easy |
