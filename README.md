@@ -398,6 +398,7 @@
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3280-convert-date-to-binary/) | Easy |
