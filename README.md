@@ -106,6 +106,7 @@
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -146,6 +147,7 @@
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
