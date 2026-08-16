@@ -396,6 +396,7 @@
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -437,6 +438,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Greedy
