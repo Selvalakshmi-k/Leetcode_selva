@@ -387,6 +387,7 @@
 | [0204-count-primes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0258-add-digits/) | Easy |
 | [0319-bulb-switcher](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0319-bulb-switcher/) | Medium |
+| [0728-self-dividing-numbers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0877-stone-game/) | Medium |
 | [1006-clumsy-factorial](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1006-clumsy-factorial/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
