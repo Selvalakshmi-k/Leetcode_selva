@@ -51,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0053-maximum-subarray/) | Medium |
@@ -351,6 +352,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0079-word-search/) | Medium |
 ## Dynamic Programming
