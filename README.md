@@ -246,6 +246,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0079-word-search](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0079-word-search/) | Medium |
 | [0242-valid-anagram](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0242-valid-anagram/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0649-dota2-senate/) | Medium |
@@ -650,9 +651,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0686-repeated-string-match/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0877-stone-game/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
