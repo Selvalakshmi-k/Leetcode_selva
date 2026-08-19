@@ -90,6 +90,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1030-matrix-cells-in-distance-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1046-last-stone-weight](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1046-last-stone-weight/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -224,6 +225,7 @@
 | [0242-valid-anagram](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0455-assign-cookies/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1030-matrix-cells-in-distance-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -397,6 +399,7 @@
 | [0728-self-dividing-numbers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0877-stone-game/) | Medium |
 | [1006-clumsy-factorial](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1006-clumsy-factorial/) | Medium |
+| [1030-matrix-cells-in-distance-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -486,6 +489,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -569,6 +573,7 @@
 | [0200-number-of-islands](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0200-number-of-islands/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0867-transpose-matrix/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2614-prime-in-diagonal/) | Easy |
