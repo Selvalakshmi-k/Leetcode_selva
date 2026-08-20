@@ -169,6 +169,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -285,6 +286,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
