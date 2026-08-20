@@ -156,6 +156,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -272,6 +273,7 @@
 | [1816-truncate-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1816-truncate-sentence/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1859-sorting-the-sentence/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2063-vowels-of-all-substrings/) | Medium |
@@ -442,6 +444,7 @@
 | [0229-majority-element-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0229-majority-element-ii/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -614,6 +617,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Monotonic Queue
