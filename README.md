@@ -284,6 +284,7 @@
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
