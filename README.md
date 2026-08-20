@@ -102,6 +102,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1816-truncate-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1816-truncate-sentence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -265,6 +266,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
+| [1816-truncate-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1816-truncate-sentence/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
