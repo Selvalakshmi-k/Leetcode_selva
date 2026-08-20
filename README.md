@@ -127,6 +127,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3033-modify-the-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3033-modify-the-matrix/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
@@ -167,6 +168,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -350,6 +352,7 @@
 | [0029-divide-two-integers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0029-divide-two-integers/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
