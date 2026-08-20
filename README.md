@@ -160,6 +160,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
@@ -280,6 +281,7 @@
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -309,6 +311,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0204-count-primes/) | Medium |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
