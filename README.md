@@ -272,6 +272,7 @@
 | [1859-sorting-the-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
+| [2063-vowels-of-all-substrings](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -393,6 +394,7 @@
 | [0877-stone-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2063-vowels-of-all-substrings](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -414,6 +416,7 @@
 | [1512-number-of-good-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+| [2063-vowels-of-all-substrings](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -598,6 +601,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0062-unique-paths/) | Medium |
+| [2063-vowels-of-all-substrings](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
