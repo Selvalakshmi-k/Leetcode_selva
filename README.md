@@ -127,6 +127,7 @@
 | [3033-modify-the-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3033-modify-the-matrix/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -293,6 +294,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -418,6 +420,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
@@ -482,6 +485,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
