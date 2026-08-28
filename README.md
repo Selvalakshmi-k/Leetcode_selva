@@ -119,6 +119,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2399-check-distances-between-same-letters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -169,6 +170,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2399-check-distances-between-same-letters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2848-points-that-intersect-with-cars/) | Easy |
@@ -294,6 +296,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2399-check-distances-between-same-letters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
