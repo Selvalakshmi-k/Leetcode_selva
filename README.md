@@ -87,6 +87,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0724-find-pivot-index/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0832-flipping-an-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0877-stone-game/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -208,6 +209,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0567-permutation-in-string/) | Medium |
+| [0832-flipping-an-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -304,6 +306,7 @@
 | [0258-add-digits](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0682-baseball-game/) | Easy |
+| [0832-flipping-an-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1006-clumsy-factorial](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1006-clumsy-factorial/) | Medium |
@@ -362,6 +365,7 @@
 | [0029-divide-two-integers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0029-divide-two-integers/) | Medium |
 | [0137-single-number-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0832-flipping-an-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0832-flipping-an-image/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Doubly-Linked List
@@ -609,6 +613,7 @@
 | [0079-word-search](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0200-number-of-islands/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0832-flipping-an-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0867-transpose-matrix/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
