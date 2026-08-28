@@ -96,6 +96,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1046-last-stone-weight](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1046-last-stone-weight/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1472-design-browser-history/) | Medium |
