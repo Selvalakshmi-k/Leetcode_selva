@@ -87,6 +87,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0724-find-pivot-index/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0877-stone-game/) | Medium |
@@ -210,6 +211,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0567-permutation-in-string/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -275,6 +277,7 @@
 | [0649-dota2-senate](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0686-repeated-string-match](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0686-repeated-string-match/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1189-maximum-number-of-balloons/) | Easy |
