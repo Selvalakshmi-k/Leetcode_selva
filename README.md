@@ -113,6 +113,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -165,6 +166,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -292,6 +294,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
@@ -473,6 +476,7 @@
 | [1512-number-of-good-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
