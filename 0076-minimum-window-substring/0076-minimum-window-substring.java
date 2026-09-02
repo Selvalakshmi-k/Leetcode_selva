@@ -1,61 +1,62 @@
 class Solution {
+
     public String minWindow(String s, String t) {
 
         if (t.length() > s.length()) {
             return "";
         }
 
-        int[] count = new int[128];
+        int[] f = new int[256];
 
-        // Count characters required from t
-        for (char c : t.toCharArray()) {
-            count[c]++;
+        for (char ch : t.toCharArray()) {
+            f[ch]++;
         }
 
-        int l = 0;
-        int have = 0;
-        int need = t.length();
+        int[] f1 = new int[256];
 
-        int start = 0;
-        int minLen = Integer.MAX_VALUE;
+        int count = 0;
+        int left = 0;
 
-        for (int r = 0; r < s.length(); r++) {
+        String res = "";
+        int min = Integer.MAX_VALUE;
 
-            char c = s.charAt(r);
+        for (int right = 0; right < s.length(); right++) {
 
-            // Character is needed
-            if (count[c] > 0) {
-                have++;
+            char ch = s.charAt(right);
+
+            if (f[ch] > 0) {
+
+                f1[ch]++;
+
+                if (f1[ch] <= f[ch]) {
+                    count++;
+                }
             }
 
-            count[c]--;
+            while (count == t.length()) {
 
-            // Window contains all characters of t
-            while (have == need) {
+                int len = right - left + 1;
 
-                // Check minimum window
-                if (r - l + 1 < minLen) {
-                    minLen = r - l + 1;
-                    start = l;
+                if (len < min) {
+                    min = len;
+                    res = s.substring(left, right + 1);
                 }
 
-                char left = s.charAt(l);
+                char leftChar = s.charAt(left);
 
-                count[left]++;
+                if (f[leftChar] > 0) {
 
-                // Removing a required character
-                if (count[left] > 0) {
-                    have--;
+                    f1[leftChar]--;
+
+                    if (f1[leftChar] < f[leftChar]) {
+                        count--;
+                    }
                 }
 
-                l++;
+                left++;
             }
         }
 
-        if (minLen == Integer.MAX_VALUE) {
-            return "";
-        }
-
-        return s.substring(start, start + minLen);
+        return res;
     }
 }
