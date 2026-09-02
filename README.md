@@ -51,6 +51,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0041-first-missing-positive](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0048-rotate-image/) | Medium |
@@ -150,6 +151,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0128-longest-consecutive-sequence/) | Medium |
