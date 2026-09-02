@@ -154,6 +154,7 @@
 | [0041-first-missing-positive](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -276,6 +277,7 @@
 | [0022-generate-parentheses](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0079-word-search/) | Medium |
 | [0242-valid-anagram](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0242-valid-anagram/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0459-repeated-substring-pattern/) | Easy |
@@ -648,6 +650,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0713-subarray-product-less-than-k/) | Medium |
