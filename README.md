@@ -141,6 +141,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -466,6 +467,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3894-traffic-signal-color/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
