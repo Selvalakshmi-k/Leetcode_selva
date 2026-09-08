@@ -138,6 +138,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -188,6 +189,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -470,6 +472,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3516-find-closest-person](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3516-find-closest-person/) | Easy |
