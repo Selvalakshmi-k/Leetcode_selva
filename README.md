@@ -128,6 +128,7 @@
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -473,6 +474,7 @@
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
