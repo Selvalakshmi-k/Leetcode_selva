@@ -177,6 +177,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2325-decode-the-message](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2325-decode-the-message/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
@@ -313,6 +314,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2325-decode-the-message](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2325-decode-the-message/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
