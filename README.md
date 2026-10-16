@@ -454,6 +454,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0048-rotate-image/) | Medium |
