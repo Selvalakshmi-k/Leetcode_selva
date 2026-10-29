@@ -49,6 +49,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -287,6 +288,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -768,4 +770,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0169-majority-element/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
