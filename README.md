@@ -297,6 +297,7 @@
 | [0079-word-search](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0079-word-search/) | Medium |
 | [0242-valid-anagram](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0242-valid-anagram/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0482-license-key-formatting](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0482-license-key-formatting/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0647-palindromic-substrings/) | Medium |
