@@ -778,4 +778,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0014-longest-common-prefix/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
