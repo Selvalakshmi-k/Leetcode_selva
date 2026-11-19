@@ -71,6 +71,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0137-single-number-ii/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0198-house-robber/) | Medium |
@@ -247,6 +248,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0035-search-insert-position/) | Easy |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Selvalakshmi-k/Leetcode_selva/tree/main/0287-find-the-duplicate-number/) | Medium |
